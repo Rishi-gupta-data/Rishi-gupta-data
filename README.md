@@ -23,5 +23,11 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Enthusiast** with 
 ## Let's Connect! 
 Feel free to check out my repositories and open issues or start a discussion! I'm always open to collaborating.
 
-[LinkedIn](https://www.linkedin.com/in/rishi-datascience/) | [Kaggle](https://www.kaggle.com/rishigupta61)
+[LinkedIn](https://www.linkedin.com/in/rishi-datascience/) | [Kaggle](https://www.kaggle.com/rishigupta61) | [Mail}(rishigupta.official@hotmail.com)
+
+
+![image](https://github.com/user-attachments/assets/c58c6920-61c3-4c7f-959c-826f0b85a810)
+![image](https://github.com/user-attachments/assets/c34c6b5a-dd2d-4ba2-966a-b62db362b4ec)
+![image](https://github.com/user-attachments/assets/a9a5d14e-a048-4a2a-a840-5f3ab5202400)
+
 
