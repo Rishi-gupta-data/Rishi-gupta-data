@@ -14,8 +14,11 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Enthusiast** with 
 3. **Recommendation System** 📖: Book recommendation engine based on user preferences.
 
 ## 🎓 Achievements
-- IBM Design Thinking Badge
-- Kaggle Competitions and more...
+- Discover Data Analysis - Microsoft
+- Fundamentals of Data visualization - Microsoft 
+- Building with Power Bi - Microsoft 
+- Query logs in Microsoft sentinel - Microsoft
+- Enterprise Design Thinking Practitioner - IBM
 
 ## Let's Connect! 
 Feel free to check out my repositories and open issues or start a discussion! I'm always open to collaborating.
