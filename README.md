@@ -26,7 +26,7 @@ rishigupta.official@hotmail.com
 [LinkedIn](https://www.linkedin.com/in/rishi-datascience/) | [Kaggle](https://www.kaggle.com/rishigupta61) | [Achievements](https://drive.google.com/drive/folders/1LfqdQlWnnIFAv0f30_DmBdhvAN6Lqjkr?usp=sharing)
 
 
-![image](https://github.com/user-attachments/assets/c58c6920-61c3-4c7f-959c-826f0b85a810)
+![PYthon Coder](https://github.com/user-attachments/assets/c58c6920-61c3-4c7f-959c-826f0b85a810)
 ![image](https://github.com/user-attachments/assets/c34c6b5a-dd2d-4ba2-966a-b62db362b4ec)
 ![image](https://github.com/user-attachments/assets/a9a5d14e-a048-4a2a-a840-5f3ab5202400)
 
