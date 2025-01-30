@@ -3,10 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate **Data Science Enthusiast** with a focus on **machine learning**, **data analytics**, and **AI development**. Currently, I'm working on various exciting projects and contributing to open-source software.
 
 ## 🔧 Technologies & Tools
-- **Python**, **R** for Data Science
-- **Machine Learning** with libraries like `scikit-learn`, `TensorFlow`, `PyTorch`
+- **Python** with  libraries like `Pandas`,`numpy`, `matplot-lib`,`YahooFinance`
+- **Machine Learning** with libraries like `scikit-learn`, 
 - **Databases**: PostgreSQL, MySQL
-- **Web Development**: Flask, React
 
 ## 📚 Projects
 1. **Stock Price Prediction Model** 📈: Predict stock trends using machine learning algorithms.
