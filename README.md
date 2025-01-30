@@ -7,11 +7,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Enthusiast** with 
 - **Machine Learning** with libraries like `scikit-learn`, 
 - **Databases**: `PostgreSQL`, `MySQL`
 
-## 📚 Projects
-1. **Stock Price Prediction Model** 📈: Predict stock trends using machine learning algorithms.
-2. **ATS (Applicant Tracking System)** 🚀: Building an intelligent resume scanning system using NLP.
-3. **Recommendation System** 📖: Book recommendation engine based on user preferences.
-
 ## 🎓 Achievements
 - Discover Data Analysis - Microsoft
 - Fundamentals of Data visualization - Microsoft 
@@ -29,4 +24,3 @@ rishigupta.official@hotmail.com
 ![image](https://github.com/user-attachments/assets/c58c6920-61c3-4c7f-959c-826f0b85a810)
 ![image](https://github.com/user-attachments/assets/c34c6b5a-dd2d-4ba2-966a-b62db362b4ec)
 ![image](https://github.com/user-attachments/assets/a9a5d14e-a048-4a2a-a840-5f3ab5202400)
-![image](https://www.credly.com/badges/d4dc9ae3-dbd1-45d6-a641-1ae83a670e04/public_url)
