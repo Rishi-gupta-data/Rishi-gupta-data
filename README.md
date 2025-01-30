@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Enthusiast** with 
 ## 🔧 Technologies & Tools
 - **Python** with  libraries like `Pandas`,`numpy`, `matplot-lib`,`YahooFinance`
 - **Machine Learning** with libraries like `scikit-learn`, 
-- **Databases**: PostgreSQL, MySQL
+- **Databases**: `PostgreSQL`, `MySQL`
 
 ## 📚 Projects
 1. **Stock Price Prediction Model** 📈: Predict stock trends using machine learning algorithms.
