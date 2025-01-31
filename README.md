@@ -1,6 +1,8 @@
 # Hi there, I'm Rishi! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Data Science Enthusiast** with a focus on **machine learning**, **data analytics**, and **AI development**. Currently, I'm working on various exciting projects and contributing to open-source software.
+Welcome to my GitHub profile! I'm a passionate **Data Science Enthusiast** 📊 with a keen focus on **Machine Learning** 🤖, **Data Analytics** 📈, and **AI Development** 💡. Currently, I'm working on various exciting projects 🚀 and contributing to open-source software 🌍. 
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss data-driven innovations! 💬
 
 # 💻 Tech Stack
 
