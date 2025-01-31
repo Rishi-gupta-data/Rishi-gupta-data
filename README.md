@@ -23,13 +23,13 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Enthusiast** with 
 
 ## 🌐 Socials & Contact  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-datascience/)  [![Kaggle](https://img.shields.io/badge/Kaggle-%23020f48.svg?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/rishigupta61)  [![Google Drive](https://img.shields.io/badge/Achievements-%234285F4.svg?style=plastic&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1LfqdQlWnnIFAv0f30_DmBdhvAN6Lqjkr?usp=sharing)  [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white))](rishigupta_official@hotmail.com|)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-datascience/)  [![Kaggle](https://img.shields.io/badge/Kaggle-%23020f48.svg?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/rishigupta61)  [![Google Drive](https://img.shields.io/badge/Achievements-%234285F4.svg?style=plastic&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1LfqdQlWnnIFAv0f30_DmBdhvAN6Lqjkr?usp=sharing)  [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](rishigupta_official@hotmail.com|)  
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-![image](https://github.com/user-attachments/assets/c58c6920-61c3-4c7f-959c-826f0b85a810)
-![image](https://github.com/user-attachments/assets/c34c6b5a-dd2d-4ba2-966a-b62db362b4ec)
-![image](https://github.com/user-attachments/assets/a9a5d14e-a048-4a2a-a840-5f3ab5202400)
+## 🏆 GitHub Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rishi-gupta-data&theme=darkhub&no-bg=true&no-frame=false&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)  
+
