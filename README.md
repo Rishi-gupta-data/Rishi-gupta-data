@@ -16,7 +16,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F37626.svg?style=plastic&logo=python&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)  ![PyMySQL](https://img.shields.io/badge/PyMySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)  
 
 
-## 🎓 Achievements  
+# 🎓 Achievements  
 
 - ![Microsoft](https://img.shields.io/badge/Microsoft-%230078D4.svg?style=plastic&logo=microsoft&logoColor=white) **Discover Data Analysis - Microsoft**  
 - ![Microsoft](https://img.shields.io/badge/Microsoft-%230078D4.svg?style=plastic&logo=microsoft&logoColor=white) **Fundamentals of Data Visualization - Microsoft**  
@@ -25,7 +25,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 - ![IBM](https://img.shields.io/badge/IBM-%23000000.svg?style=plastic&logo=ibm&logoColor=white) **Enterprise Design Thinking Practitioner - IBM**  
 
 
-## 🌐 Socials & Contact  
+# 🌐 Socials & Contact  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-datascience/)  [![Kaggle](https://img.shields.io/badge/Kaggle-%23020f48.svg?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/rishigupta61)  [![Google Drive](https://img.shields.io/badge/Achievements-%234285F4.svg?style=plastic&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1LfqdQlWnnIFAv0f30_DmBdhvAN6Lqjkr?usp=sharing)  [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](rishigupta_official@hotmail.com|)  
 
