@@ -30,6 +30,10 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Enthusiast** with 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rishi-gupta-data&theme=darkhub&no-bg=true&no-frame=false&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)  
+## 🏆 Kaggle Achievements  
+
+[![Competition Expert](https://img.shields.io/badge/Competition%20Expert-%23FFD700.svg?style=plastic&logo=kaggle&logoColor=black)](https://www.kaggle.com/rishigupta61)  
+[![Notebook Master](https://img.shields.io/badge/Notebook%20Master-%23020f48.svg?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/rishigupta61)  
+[![Dataset Contributor](https://img.shields.io/badge/Dataset%20Contributor-%23158EED.svg?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/rishigupta61)  
+[![Discussion Expert](https://img.shields.io/badge/Discussion%20Expert-%23FFA500.svg?style=plastic&logo=kaggle&logoColor=black)](https://www.kaggle.com/rishigupta61)  
 
