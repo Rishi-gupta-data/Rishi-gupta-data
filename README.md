@@ -7,28 +7,29 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 # 💻 Tech Stack  
 
 ## **Languages**  
-- ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [Python](https://www.python.org/)  
-- ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) [SQL](https://www.w3schools.com/sql/)  
+[![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)](https://www.python.org/)  
+[![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)](https://www.w3schools.com/sql/)  
 
 ## **Tools & Techniques**  
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black) [Power BI](https://powerbi.microsoft.com/)  
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white) [MySQL](https://www.mysql.com/)  
-- ![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-%230074C6.svg?style=plastic&logo=mysql&logoColor=white) [SQL Workbench](https://dev.mysql.com/doc/workbench/en/)  
-- ![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2.svg?style=plastic&logo=yahoo&logoColor=white) [Yahoo Finance](https://finance.yahoo.com/)  
-- ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4.svg?style=plastic&logo=google&logoColor=white) [Looker Studio](https://lookerstudio.google.com/)  
-- ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white) [Jupyter](https://jupyter.org/)  
-- ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) [MS Excel](https://www.microsoft.com/en-us/microsoft-365/excel)  
-- ![CSV](https://img.shields.io/badge/CSV-%2300407D.svg?style=plastic&logo=microsoft&logoColor=white) [CSV](https://www.w3schools.com/python/pandas/pandas_csv.asp)  
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/)  
+[![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-%230074C6.svg?style=plastic&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/workbench/en/)  
+[![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2.svg?style=plastic&logo=yahoo&logoColor=white)](https://finance.yahoo.com/)  
+[![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4.svg?style=plastic&logo=google&logoColor=white)](https://lookerstudio.google.com/)  
+[![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white)](https://jupyter.org/)  
+[![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)  
+[![CSV](https://img.shields.io/badge/CSV-%2300407D.svg?style=plastic&logo=microsoft&logoColor=white)](https://www.w3schools.com/python/pandas/pandas_csv.asp)  
 
 ## **Frameworks & Libraries**  
-- ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) [Pandas](https://pandas.pydata.org/)  
-- ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) [NumPy](https://numpy.org/)  
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F37626.svg?style=plastic&logo=python&logoColor=white) [Matplotlib](https://matplotlib.org/)  
-- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) [Scikit-learn](https://scikit-learn.org/)  
-- ![PyMySQL](https://img.shields.io/badge/PyMySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white) [PyMySQL](https://pymysql.readthedocs.io/en/latest/)  
-- ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) [Plotly](https://plotly.com/)  
-- ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white) [SciPy](https://scipy.org/)  
-- ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) [SQLite](https://www.sqlite.org/)  
+[![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)](https://numpy.org/)  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F37626.svg?style=plastic&logo=python&logoColor=white)](https://matplotlib.org/)  
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)  
+[![PyMySQL](https://img.shields.io/badge/PyMySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)](https://pymysql.readthedocs.io/en/latest/)  
+[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)](https://plotly.com/)  
+[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)](https://scipy.org/)  
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)](https://www.sqlite.org/)  
+
 
 
 
