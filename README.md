@@ -29,6 +29,11 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-datascience/)  [![Kaggle](https://img.shields.io/badge/Kaggle-%23020f48.svg?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/rishigupta61)  [![Google Drive](https://img.shields.io/badge/Achievements-%234285F4.svg?style=plastic&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1LfqdQlWnnIFAv0f30_DmBdhvAN6Lqjkr?usp=sharing)  [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](rishigupta_official@hotmail.com|)  
 
+## 📊 W3Schools Progress  
+<!-- W3SCHOOLS_SKILLS_START -->
+<!-- Skill bars will be automatically updated here -->
+<!-- W3SCHOOLS_SKILLS_END -->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
