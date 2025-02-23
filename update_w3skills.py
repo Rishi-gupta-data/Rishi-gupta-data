@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import re
 
 # Replace with your actual W3Schools public profile URL
-W3SCHOOLS_PROFILE_URL = "https://www.w3schools.com/users/profile.asp?username=Rishi-Gupta"
+W3SCHOOLS_PROFILE_URL = "https://www.w3profile.com/Rishi-Gupta"
 
 def fetch_w3schools_progress():
     response = requests.get(W3SCHOOLS_PROFILE_URL)
