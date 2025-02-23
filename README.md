@@ -4,16 +4,32 @@ Welcome to my GitHub profile! I'm a passionate **Data Science Enthusiast** 📊 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss data-driven innovations! 💬
 
-# 💻 Tech Stack
+# 💻 Tech Stack  
 
-## Languages  
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)  
+## **Languages**  
+- ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) [Python](https://www.python.org/)  
+- ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) [SQL](https://www.w3schools.com/sql/)  
 
-## Tools & Techniques  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  ![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-%230074C6.svg?style=plastic&logo=mysql&logoColor=white)  ![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2.svg?style=plastic&logo=yahoo&logoColor=white)  ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4.svg?style=plastic&logo=google&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white)  ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)  ![CSV](https://img.shields.io/badge/CSV-%2300407D.svg?style=plastic&logo=microsoft&logoColor=white)  
+## **Tools & Techniques**  
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=power-bi&logoColor=black) [Power BI](https://powerbi.microsoft.com/)  
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white) [MySQL](https://www.mysql.com/)  
+- ![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-%230074C6.svg?style=plastic&logo=mysql&logoColor=white) [SQL Workbench](https://dev.mysql.com/doc/workbench/en/)  
+- ![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2.svg?style=plastic&logo=yahoo&logoColor=white) [Yahoo Finance](https://finance.yahoo.com/)  
+- ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4.svg?style=plastic&logo=google&logoColor=white) [Looker Studio](https://lookerstudio.google.com/)  
+- ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white) [Jupyter](https://jupyter.org/)  
+- ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) [MS Excel](https://www.microsoft.com/en-us/microsoft-365/excel)  
+- ![CSV](https://img.shields.io/badge/CSV-%2300407D.svg?style=plastic&logo=microsoft&logoColor=white) [CSV](https://www.w3schools.com/python/pandas/pandas_csv.asp)  
 
-## Frameworks & Libraries  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F37626.svg?style=plastic&logo=python&logoColor=white)  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)  ![PyMySQL](https://img.shields.io/badge/PyMySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)  
+## **Frameworks & Libraries**  
+- ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) [Pandas](https://pandas.pydata.org/)  
+- ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) [NumPy](https://numpy.org/)  
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F37626.svg?style=plastic&logo=python&logoColor=white) [Matplotlib](https://matplotlib.org/)  
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) [Scikit-learn](https://scikit-learn.org/)  
+- ![PyMySQL](https://img.shields.io/badge/PyMySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white) [PyMySQL](https://pymysql.readthedocs.io/en/latest/)  
+- ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) [Plotly](https://plotly.com/)  
+- ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white) [SciPy](https://scipy.org/)  
+- ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) [SQLite](https://www.sqlite.org/)  
+
 
 
 # 🎓 Achievements  
@@ -28,13 +44,6 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 # 🌐 Socials & Contact  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-datascience/)  [![Kaggle](https://img.shields.io/badge/Kaggle-%23020f48.svg?style=plastic&logo=kaggle&logoColor=white)](https://www.kaggle.com/rishigupta61)  [![Google Drive](https://img.shields.io/badge/Achievements-%234285F4.svg?style=plastic&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1LfqdQlWnnIFAv0f30_DmBdhvAN6Lqjkr?usp=sharing)  [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](rishigupta_official@hotmail.com|)  
-
-## 📚 My Learning Progress on W3Schools
-
-<!-- START_SKILLS -->
-(Your progress bars will be auto-updated here)
-<!-- END_SKILLS -->
-
 
 
 ### ✍️ Random Dev Quote
